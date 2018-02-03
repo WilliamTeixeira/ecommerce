@@ -11,4 +11,5 @@ class PageAdmin extends Page{
 	}
 
 }
+
  ?>
